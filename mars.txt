@@ -2,4 +2,4 @@ Cold and dry, but everything my favourite colour.
 Two moons might be a problem for Wolfman.
 The Mummy will appreciate the lack of humidity.
 We'll need to take our own water.
-We added our own line to this copy.
+We removed the conflict on this line.
