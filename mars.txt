@@ -1,5 +1,10 @@
+Climate notes
+=============
 Cold and dry, but everything my favourite colour.
 Two moons might be a problem for Wolfman.
 The Mummy will appreciate the lack of humidity.
+
+Practicalities
+==============
 We'll need to take our own water.
 We removed the conflict on this line.
